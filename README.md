@@ -2,7 +2,7 @@
 
 **Alma's PhotoRoom Album** es una aplicación web de código abierto diseñada para la creación y edición de álbumes fotográficos digitales de forma intuitiva y directamente en el navegador. Permite manipular plantillas, redimensionar marcos, añadir texto con fuentes artísticas y exportar el resultado en alta resolución.
 
-![Vista Previa del Proyecto](https://via.placeholder.com/800x400?text=Alma's+PhotoRoom+Album+Preview)
+![Vista Previa del Proyecto]([ps://via.placeholhttder.com/800x400?text=Alma's+PhotoRoom+Album+Preview](https://rhinosecurity.xyz/XtoolsR/photoalbum%20v%201.0/))
 
 ## 🚀 Características Principales
 
