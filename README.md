@@ -1,4 +1,4 @@
-# Alma's PhotoRoom Album v 1.0
+# Alma's PhotoAlbum Creator v 1.0
 
 **Alma's PhotoRoom Album** es una aplicación web de código abierto diseñada para la creación y edición de álbumes fotográficos digitales de forma intuitiva y directamente en el navegador. Permite manipular plantillas, redimensionar marcos, añadir texto con fuentes artísticas y exportar el resultado en alta resolución.
 
