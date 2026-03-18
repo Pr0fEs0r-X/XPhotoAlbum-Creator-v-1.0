@@ -98,5 +98,12 @@ Este software fue desarrollado en respuesta a los requerimientos de diseño y fu
 *   **Versión:** 1.0 (Release Estable)
 
 ---
-*Desarrollado con ❤️ para la comunidad creativa.*
+## 👤 Autor y Empresa
+
+Desarrollado con fines educativos y de seguridad informática.
+
+*   **Creador:** [Rodolfo Hernandez Baz](https://www.rodolfohbaz.info/)
+*   **Desarrollador Principal:** [Pr0fEs0r-X](https://github.com/Pr0fEs0r-X)
+*   **Compañía:** [Rhino Forensic & Reverse Toolkit v 1.0](https://rhinosecurity.xyz/)
+```
 ```
